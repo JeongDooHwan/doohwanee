@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=Hi,%20I'm%20doohwan%20👋&fontSize=38" width="100%" />
 
 <p align="center">
-  <a href="https://yeooneeee.github.io/Web-Portfolio.github.io/" target="_blank">
+  <a href="https://jeongdoohwan.github.io/Web-Portfolio.github.io/" target="_blank">
     <b>🚀 이력서/포트폴리오 바로가기</b>
   </a>
 </p>
