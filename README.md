@@ -22,7 +22,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wogurwogur&repo=fruitshop&theme=radical)](https://github.com/wogurwogur/fruitshop)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SYoffice&repo=SYoffice&theme=radical)](https://github.com/SYoffice/SYoffice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeongDooHwan&repo=Web-Portfolio.github.io&theme=radical)](https://github.com/JeongDooHwan/Web-Portfolio.github.io)
 
 
 
@@ -38,7 +37,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ajax-007FFF?style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=mybatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
